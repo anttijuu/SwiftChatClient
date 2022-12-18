@@ -19,5 +19,5 @@ There is also a [Java console chat client](https://github.com/anttijuu/O3-chat-c
 # About
 
 (c) Antti Juustila, 2021-2022 All Rights reserved.
-MIT License, see LICENSE.txt
+MIT License, see LICENSE for details.
 
