@@ -45,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		315B0798294F45A700C87040 /* BuildConfig */ = {isa = PBXFileReference; lastKnownFileType = folder; path = BuildConfig; sourceTree = "<group>"; };
+		315B079A294F4BEE00C87040 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		31C6BE6A279ADE7000F5CCC6 /* ChatClientInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatClientInterface.swift; sourceTree = "<group>"; };
 		31C6BE6E279AE06100F5CCC6 /* ClientInterfaceStub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientInterfaceStub.swift; sourceTree = "<group>"; };
 		31C6BE7C279AECA500F5CCC6 /* ChatHttpClientObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatHttpClientObserver.swift; sourceTree = "<group>"; };
@@ -98,6 +99,7 @@
 		31E5523125EA24140057BCD2 = {
 			isa = PBXGroup;
 			children = (
+				315B079A294F4BEE00C87040 /* README.md */,
 				315B0798294F45A700C87040 /* BuildConfig */,
 				31E5523C25EA24150057BCD2 /* SwiftChatClient */,
 				31E5524F25EA24150057BCD2 /* SwiftChatClientTests */,
